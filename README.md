@@ -1,4 +1,5 @@
 Components used are 
+ 
   1.ultra sonic sensor
   2.micro controler (ESP8266)
   3.OLED display
@@ -7,6 +8,8 @@ Components used are
 
 Cloud plate form is thinkspeak
 Connections are noted in the program
+selction of board -> tools -> board -> esp8266 -> Generic ESP8266 Module
+
 
 Working:
 the code is automated in sunch a way that the sensor will detect the water level and send the data to micro controler, that will undergo calculation to compare the triggering water level percentage.
